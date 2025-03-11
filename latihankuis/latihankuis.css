@@ -1,0 +1,58 @@
+body {
+    background-color: bisque;
+}
+.span1 {
+    color: red;
+}
+.span2 {
+    color: orange;
+}
+.span3 {
+    color: yellow;
+}
+.span4 {
+    color: green;
+}
+.span5 {
+    color: blue;
+}
+.span6 {
+    color: purple;
+}
+.card {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: burlywood;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;  
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+.table td {
+    text-align: justify;
+    padding: 10px;
+    background: white;
+    border-radius: 5px;
+}
+.table label {
+    display: inline-block;
+    margin-left: 5px;
+}
+.btn {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+.btn:hover {
+    background-color: #000000;
+    color: white;
+}
